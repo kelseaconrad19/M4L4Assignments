@@ -1,0 +1,5 @@
+{
+    "New York": {"temperature": 70, "condition": "Sunny", "humidity": 50},
+    "London": {"temperature": 60, "condition": "Cloudy", "humidity": 65},
+    "Tokyo": {"temperature": 75, "condition": "Rainy", "humidity": 70}
+}

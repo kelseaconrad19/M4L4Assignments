@@ -40,5 +40,3 @@ class User:
             return "You are now logged in."
         else:
             return "Incorrect password."
-
-
